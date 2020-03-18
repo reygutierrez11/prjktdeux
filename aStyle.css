@@ -31,8 +31,14 @@ nav
     text-decoration: none;
     font-family:'Orbitron', sans-serif;
     font-size: 15px;
-    color: red;
+    color: darkblue;
     display: box;
+}
+
+.pages li a.active
+{
+    color:darkblue;
+    background-color: #FAFAD2;
 }
 
 .pages li a:hover
