@@ -11,18 +11,16 @@ nav
 	justify-content:center;
 	align-items: center;
 	background-color: #FAFAD2;
+        background-image: url(satin-nuss.jpg);
+        background-position: center;
+        background-size: cover;
 	
 }
-
-
 
 .pages li
 {
   list-style: none ;
   background-color: #f5fffa; 
-  background-image: url(satin-nuss.jpg);
-  background-position: center;
-  background-size: cover;
   display: inline-block;
   line-height: 30px;
 }
