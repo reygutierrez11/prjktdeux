@@ -32,7 +32,7 @@ nav
     font-family:'Orbitron', 'sans-serif';
     font-size: 15px;
     color: darkblue;
-    display: box;
+    display: block;
 }
 
 .pages li a.active
