@@ -49,18 +49,18 @@ nav
 .Allfont
 {
     width: 80% ;
-    font-family: monospace,console;
+    font-family:'monospace',console;
     color:darkblue
 }
 
 .AllfontFixed
 {
     width: 700px;
-    font-family: monospace,console;
+    font-family:'monospace',console;
     color:darkblue
 }
 
 .title
 {
-    font-family: monospace,courier new;
+    font-family:'monospace',courier new;
 }
