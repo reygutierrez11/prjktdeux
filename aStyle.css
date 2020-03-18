@@ -22,14 +22,14 @@ nav
 {
   list-style: none ;
   background-color: #f5fffa; 
-  background-image: url(woodTexture.jpg);
+  background-image: url(satin-nuss.jpg);
   display: inline-block;
   line-height: 30px;
 }
 
 .pages li a
 {
-    padding: 25px;
+    padding: 22px;
     text-decoration: none;
     font-family:'Orbitron', sans-serif;
     font-size: 15px;
