@@ -6,7 +6,7 @@ html
 nav
 {
         display: flex;
-	height: 70px;
+	height: 10%;
         width: 100%;
 	justify-content:center;
 	align-items: center;
@@ -43,5 +43,24 @@ nav
 
 .pages li a:hover
 {
-    color: white;
+    color: lightblue;
+}
+
+.Allfont
+{
+    width: 80% ;
+    font-family: monospace,console;
+    color:darkblue
+}
+
+.AllfontFixed
+{
+    width: 700px;
+    font-family: monospace,console;
+    color:darkblue
+}
+
+.title
+{
+    font-family: monospace,courier new;
 }
